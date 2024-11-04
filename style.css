@@ -1,9 +1,16 @@
 body{
-    background-color: black;
-    color:pink
+    background-color: pink;
+    color:black
     margin :0px
 }
 
     header{
  border-bottom: solid 2px rbg:yel
+ padding:20px;
+ font-size: 32px;
+ color: black
 
+}
+   section{
+
+}
