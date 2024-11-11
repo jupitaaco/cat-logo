@@ -1,18 +1,22 @@
 body{
-    background-color: pink;
-    color:black
-    margin :0px
+    background-color: rgb(212, 69, 93);
+    color:rgb(202, 172, 115);
+    margin :0px;
 }
 
     header{
- border-bottom: solid 2px rbg:yel
+ border-bottom: solid 2px rbg:yel;
  padding:20px;
  font-size: 32px;
- color: black
+ color: black;
 
 }
    section{
-    background-color: blueviolet
-    padding top ;
+    background-color: blueviolet;
+    padding-top:80px;
+    padding-bottom: 80px;
+    display:flex;
+    justify-content: center;
+
 
 }
